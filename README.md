@@ -202,4 +202,4 @@ removed and add commit and push your changes. Then open a pull request.
 * [4-Minute Guide to Debugging with Pry by Dick Ward](https://medium.com/@TheDickWard/an-intro-to-ruby-debugging-featuring-pry-c931fde69069)
 * [Pry documentation](http://pryrepl.org/)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/debugging-with-pry' title='Debugging with Pry'>Debugging with Pry</a> on Learn.co and start learning to code for free.</p>
+
